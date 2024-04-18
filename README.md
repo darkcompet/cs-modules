@@ -57,6 +57,9 @@ for eg,. `cs-net-http` is based on `cs-net` which is based on `cs`.
 	git submodule add https://github.com/darkcompet/cs-unity-http.git
 	git submodule add https://github.com/darkcompet/cs-unity-preference.git
 	git submodule add https://github.com/darkcompet/cs-unity-photon.git
+
+	# Make console app
+	dotnet new console
 ```
 
 
