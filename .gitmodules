@@ -1,0 +1,39 @@
+[submodule "tool/compet/cs"]
+	path = tool/compet/cs
+	url = https://github.com/darkcompet/cs.git
+[submodule "tool/compet/cs-http"]
+	path = tool/compet/cs-http
+	url = https://github.com/darkcompet/cs-http.git
+[submodule "tool/compet/cs-net"]
+	path = tool/compet/cs-net
+	url = https://github.com/darkcompet/cs-net.git
+[submodule "tool/compet/cs-net-json"]
+	path = tool/compet/cs-net-json
+	url = https://github.com/darkcompet/cs-net-json.git
+[submodule "tool/compet/cs-net-http"]
+	path = tool/compet/cs-net-http
+	url = https://github.com/darkcompet/cs-net-http.git
+[submodule "tool/compet/cs-net-efcore"]
+	path = tool/compet/cs-net-efcore
+	url = https://github.com/darkcompet/cs-net-efcore.git
+[submodule "tool/compet/cs-asp"]
+	path = tool/compet/cs-asp
+	url = https://github.com/darkcompet/cs-asp.git
+[submodule "tool/compet/cs-asp-photon"]
+	path = tool/compet/cs-asp-photon
+	url = https://github.com/darkcompet/cs-asp-photon.git
+[submodule "tool/compet/cs-unity"]
+	path = tool/compet/cs-unity
+	url = https://github.com/darkcompet/cs-unity.git
+[submodule "tool/compet/cs-unity-log"]
+	path = tool/compet/cs-unity-log
+	url = https://github.com/darkcompet/cs-unity-log.git
+[submodule "tool/compet/cs-unity-http"]
+	path = tool/compet/cs-unity-http
+	url = https://github.com/darkcompet/cs-unity-http.git
+[submodule "tool/compet/cs-unity-preference"]
+	path = tool/compet/cs-unity-preference
+	url = https://github.com/darkcompet/cs-unity-preference.git
+[submodule "tool/compet/cs-unity-photon"]
+	path = tool/compet/cs-unity-photon
+	url = https://github.com/darkcompet/cs-unity-photon.git

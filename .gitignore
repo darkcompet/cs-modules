@@ -1,0 +1,4 @@
+# Our definition
+.DS_Store
+obj/
+.vscode/
