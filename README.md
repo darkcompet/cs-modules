@@ -63,9 +63,7 @@ for eg,. `cs-net-http` is based on `cs-net` which is based on `cs`.
 ```
 
 
-## Others
-
-- Register new module
+## How to create new lib
 
 ```bash
 	# Turn off root git
@@ -73,7 +71,7 @@ for eg,. `cs-net-http` is based on `cs-net` which is based on `cs`.
 
 	# Make new module
 	# For faster, just copy a module from tool/compet to current folder.
-	mkdir cs-mymodule && cd cs-mymodule
+	mkdir [cs-asp-newmodule] && cd [cs-asp-newmodule]
 
 	# Publish the module
 	# For faster, go with vscode Lens plugin
@@ -86,16 +84,19 @@ for eg,. `cs-net-http` is based on `cs-net` which is based on `cs`.
 	cd ..
 
 	# Delete the module and Get back git
-	rm -rf cs-mymodule
+	rm -rf [cs-asp-newmodule]
 	mv .git-tmp .git
 
 	# Add the module to this project
 	cd tool/compet
-	git submodule add https://github.com/darkcompet/cs-mymodule.git
+	git submodule add https://github.com/darkcompet/[cs-asp-newmodule].git
 	cd ../..
 ```
 
-- How to remove a submodule
+
+## Tips
+
+- Remove a submodule
 
 ```bash
 	# Goto directory of added submodules and Delete from git
